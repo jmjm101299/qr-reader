@@ -1,0 +1,8 @@
+{
+  "name": "qreader",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
